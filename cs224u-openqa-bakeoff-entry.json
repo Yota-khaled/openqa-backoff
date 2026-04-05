@@ -1,0 +1,127 @@
+{
+    "Who wrote the novel Frankenstein?": {
+        "prompt": "Who wrote the novel Frankenstein?",
+        "generated_text": " [model generated answer here]",
+        "generated_tokens": [
+            "\u2581[model",
+            "\u2581generated",
+            "\u2581answer",
+            "\u2581here]"
+        ],
+        "generated_probs": [
+            0.12,
+            0.34,
+            0.28,
+            0.19
+        ],
+        "generated_answer": "[predicted answer]",
+        "generated_answer_tokens": [
+            "\u2581[predicted",
+            "\u2581answer]"
+        ],
+        "generated_answer_probs": [
+            0.12,
+            0.34
+        ]
+    },
+    "What is the capital of France?": {
+        "prompt": "What is the capital of France?",
+        "generated_text": " [model generated answer here]",
+        "generated_tokens": [
+            "\u2581[model",
+            "\u2581generated",
+            "\u2581answer",
+            "\u2581here]"
+        ],
+        "generated_probs": [
+            0.12,
+            0.34,
+            0.28,
+            0.19
+        ],
+        "generated_answer": "[predicted answer]",
+        "generated_answer_tokens": [
+            "\u2581[predicted",
+            "\u2581answer]"
+        ],
+        "generated_answer_probs": [
+            0.12,
+            0.34
+        ]
+    },
+    "In what year did World War II end?": {
+        "prompt": "In what year did World War II end?",
+        "generated_text": " [model generated answer here]",
+        "generated_tokens": [
+            "\u2581[model",
+            "\u2581generated",
+            "\u2581answer",
+            "\u2581here]"
+        ],
+        "generated_probs": [
+            0.12,
+            0.34,
+            0.28,
+            0.19
+        ],
+        "generated_answer": "[predicted answer]",
+        "generated_answer_tokens": [
+            "\u2581[predicted",
+            "\u2581answer]"
+        ],
+        "generated_answer_probs": [
+            0.12,
+            0.34
+        ]
+    },
+    "Who invented the telephone?": {
+        "prompt": "Who invented the telephone?",
+        "generated_text": " [model generated answer here]",
+        "generated_tokens": [
+            "\u2581[model",
+            "\u2581generated",
+            "\u2581answer",
+            "\u2581here]"
+        ],
+        "generated_probs": [
+            0.12,
+            0.34,
+            0.28,
+            0.19
+        ],
+        "generated_answer": "[predicted answer]",
+        "generated_answer_tokens": [
+            "\u2581[predicted",
+            "\u2581answer]"
+        ],
+        "generated_answer_probs": [
+            0.12,
+            0.34
+        ]
+    },
+    "What is the largest planet in the solar system?": {
+        "prompt": "What is the largest planet in the solar system?",
+        "generated_text": " [model generated answer here]",
+        "generated_tokens": [
+            "\u2581[model",
+            "\u2581generated",
+            "\u2581answer",
+            "\u2581here]"
+        ],
+        "generated_probs": [
+            0.12,
+            0.34,
+            0.28,
+            0.19
+        ],
+        "generated_answer": "[predicted answer]",
+        "generated_answer_tokens": [
+            "\u2581[predicted",
+            "\u2581answer]"
+        ],
+        "generated_answer_probs": [
+            0.12,
+            0.34
+        ]
+    }
+}
